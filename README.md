@@ -1,6 +1,6 @@
 # RealTime Sensing
 
-Repositorio del proyecto final Equipo 1 MAHS.
+Repositorio del proyecto final Equipo 1 MAHS update readme.
 
 ## Contenido
 
